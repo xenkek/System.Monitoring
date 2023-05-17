@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monitoring.Application.Core
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monitoring.Models", "Monitoring.Models\Monitoring.Models.csproj", "{C1278EC1-8ABB-42F2-8B8C-E25808EF961D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monitoring.DataAccessLayer", "Monitoring.DataAccessLayer\Monitoring.DataAccessLayer.csproj", "{657D9F66-DA0D-4389-9B99-114B27A42B89}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
